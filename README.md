@@ -6,4 +6,4 @@ The data and description of variables can be found [here in EN](Codebook.pdf) an
 
 The [report](数据挖掘大作业report.pptx) describes our whole data analytics and mining process in details.
 
-**My main contribute code is [the complete data mining process](恐怖主义数据库GTD数据挖掘.html), from data preprocess to data modeling and evaluation.**
+**My contribitions of code are [the complete data mining process](恐怖主义数据库GTD数据挖掘.html), from data preprocess to data modeling and evaluation.**
