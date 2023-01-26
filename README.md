@@ -1,6 +1,6 @@
 # Global Terrorism Database(GTD) Classification
 
-### This project employed multiple decision tree models (C3.0, C4.5, CART, Random Forest, etc.) to recognize attack planners.
+### This project employs multiple decision tree models (C3.0, C4.5, CART, Random Forest, etc.) to recognize attack planners.
 
 The data and description of variables can be found [here in EN](Codebook.pdf) and [here in CN](GTD全球恐怖主义数据库中文.pdf)
 
